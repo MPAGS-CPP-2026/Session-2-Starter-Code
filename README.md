@@ -9,3 +9,4 @@ Sinéad Leckey
 
 # Documentation
 Adding this line to test git pull
+Not a conflicting line
