@@ -5,6 +5,6 @@ A simple command line tool for encrypting/decrypting text using classical cipher
 
 # Hello
 
-#Documentation
+#Documentation #this sentence is being edited for the conflict stuff
 
 #Editing this for the git pull test
